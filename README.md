@@ -1,15 +1,15 @@
 # Code of Conduct / Código de Conducta
 
-- [In English](https://github.com/codeforamerica/codeofconduct/blob/master/code-of-conduct-en.md)
+- [In English](https://github.com/code-for-charlottesville/codeofconduct/blob/master/code-of-conduct-en.md)
   - [How to Contribute](#how-to-contribute-to-this-code-of-conduct)
   - [More information and incident reports](#more-information-and-incident-reports)
-- [En Español](https://github.com/codeforamerica/codeofconduct/blob/master/code-of-conduct-es.md)
+- [En Español](https://github.com/code-for-charlottesville/codeofconduct/blob/master/code-of-conduct-es.md)
   - [Cómo contribuir](#cómo-contribuir-a-este-código-de-conducta)
   - [Más Información o reportar incidentes](#más-información-o-reporte-de-incidentes)
 
-## Code for America Code of Conduct
+## Code for Charlottesville Code of Conduct
 
-In Code for America we believe that everybody should feel comfortable, accepted, and safe.
+In Code for Charlottesville we believe that everybody should feel comfortable, accepted, and safe.
 
 For this reason our Code of Conduct is very important and guides all interactions in our event and properties. Please take some time to read our [Code of Conduct](code-of-conduct-en.md).
 
@@ -24,15 +24,15 @@ We await your contributions :heart:
 
 ### More information and incident reports
 
-If you have any questions or want to report a violation to our code of conduct please contact **safespace** at **codeforamerica.org**.
+If you have any questions or want to report a violation to our code of conduct please contact **safespace** at **codeforcharlottesville.org**.
 
 ----
 
 ## Código de Conducta
 
-En Code for America creemos que todxs deben sentirse cómodos, aceptados y seguros.
+En Code for Charlottesville creemos que todxs deben sentirse cómodos, aceptados y seguros.
 
-Por esta razón nuestro código de conducta de Code for America tiene mucha importancía y guia toda interacción en nuestros eventos y propiedades. Por favor tome un momento para leer la [versión en Español](code-of-conduct-es.md).
+Por esta razón nuestro código de conducta de Code for Charlottesville tiene mucha importancía y guia toda interacción en nuestros eventos y propiedades. Por favor tome un momento para leer la [versión en Español](code-of-conduct-es.md).
 
 ### Cómo contribuir a este código de conducta
 
@@ -45,4 +45,4 @@ Esperamos sus contribuciones :heart:
 
 ### Más información o reporte de incidentes
 
-Si tienes alguna pregunta o quieres reportar una violación a nuestro código de conducta por favor contacte **safespace** at **codeforamerica.org**.
+Si tienes alguna pregunta o quieres reportar una violación a nuestro código de conducta por favor contacte **safespace** at **codeforcharlottesville.org**.
